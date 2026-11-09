@@ -552,7 +552,7 @@ export default function ConfessionPage() {
 
             {/* Pita Selamat */}
             <div className="inline-block px-5 py-2 rounded-full bg-gradient-to-r from-pink-500 to-purple-500 text-white font-bold text-sm tracking-wide shadow-md mb-4 animate-bounce">
-              🎉 YEYYYYY! ALHAMDULILLAH! 🎉
+              🎉 YEAYYYYY!🎉
             </div>
 
             {/* Judul Besar Sesuai Permintaan */}
@@ -577,7 +577,7 @@ export default function ConfessionPage() {
               <div className="space-y-2 text-xs sm:text-sm text-gray-700">
                 <p className="flex justify-between">
                   <span className="text-gray-500">Pasangan:</span>
-                  <span className="font-bold text-pink-600">Kamu ❤️ Hanan</span>
+                  <span className="font-bold text-pink-600">Atin ❤️ Hanan</span>
                 </p>
                 <p className="flex justify-between">
                   <span className="text-gray-500">Tanggal Jadian:</span>
@@ -632,9 +632,9 @@ export default function ConfessionPage() {
                 <div className="mt-3 p-4 rounded-xl bg-white/90 border border-purple-200 text-gray-700 text-xs sm:text-sm leading-relaxed text-left animate-fadeIn shadow-sm">
                   <p className="font-semibold text-pink-600 mb-1">Janji Hanan Untukmu: 🌹</p>
                   <ul className="list-disc list-inside space-y-1 text-gray-600">
-                    <li>Selalu ada waktu buat dengerin cerita kamu seharian.</li>
+                    <li>Selalu menyempatkan waktu buat dengerin cerita kamu seharian.</li>
                     <li>Gak bakal ninggalin kamu pas lagi ngambek atau sedih.</li>
-                    <li>Siap sedia nemenin jajan dan jalan-jalan seru!</li>
+                    <li>Siap sedia nemenin kamu mabarrr!</li>
                     <li>Menyayangi kamu sepenuh hati, hari ini, besok, dan selamanya! 💖</li>
                   </ul>
                 </div>
