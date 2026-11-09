@@ -7,7 +7,7 @@ import React, { useState, useEffect, useRef } from "react";
 // ==========================================
 // Masukkan nomor WhatsApp kamu jika ingin langsung ke chat kamu (format: 628xxxxxxxxxx)
 // Jika dikosongkan (""), akan otomatis membuka pilihan kontak WhatsApp.
-const HANAN_WHATSAPP_NUMBER = "https://api.whatsapp.com/send?phone=6285157810800"; 
+const HANAN_WHATSAPP_NUMBER = "6285157810800";
 
 // ==========================================
 // AUDIO SINTESIS ROMANTIS (WEB AUDIO API)
@@ -407,7 +407,7 @@ export default function ConfessionPage() {
   const yesButtonPaddingX = Math.min(2 + noCount * 0.8, 5.5); // rem
 
   const waLink = `https://wa.me/${HANAN_WHATSAPP_NUMBER ? HANAN_WHATSAPP_NUMBER : ""}?text=${encodeURIComponent(
-    "Halo Hanan! 🥰 Aku udah terima kamu jadi pacar aku! Yeyyy sekarang kita resmi jadian ya! ❤️💍 Tolong traktir seblak/eskrim favorit aku yaa 🍦✨"
+    "Haiiii Hanan!!! 🥰 Aku udah terima kamu jadi pacar aku yaaahhh!!!! Yeayyy sekarang kita resmi jadian!!! ❤️💍 kamu udahh bisa manggil aku sayanggg sekaranggg ✨"
   )}`;
 
   return (
