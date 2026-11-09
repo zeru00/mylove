@@ -7,7 +7,7 @@ import React, { useState, useEffect, useRef } from "react";
 // ==========================================
 // Masukkan nomor WhatsApp kamu jika ingin langsung ke chat kamu (format: 628xxxxxxxxxx)
 // Jika dikosongkan (""), akan otomatis membuka pilihan kontak WhatsApp.
-const HANAN_WHATSAPP_NUMBER = ""; 
+const HANAN_WHATSAPP_NUMBER = "https://wa.me/6285157810800"; 
 
 // ==========================================
 // AUDIO SINTESIS ROMANTIS (WEB AUDIO API)
