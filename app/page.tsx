@@ -406,9 +406,9 @@ export default function ConfessionPage() {
   const yesButtonPaddingY = Math.min(1 + noCount * 0.4, 2.8); // rem
   const yesButtonPaddingX = Math.min(2 + noCount * 0.8, 5.5); // rem
 
-  const waLink = `https://wa.me/${HANAN_WHATSAPP_NUMBER ? HANAN_WHATSAPP_NUMBER : ""}?text=${encodeURIComponent(
-    "Haiiii Hanan!!! 🥰 Aku udah terima kamu jadi pacar aku yaaahhh!!!! Yeayyy sekarang kita resmi jadian!!! ❤️💍 kamu udahh bisa manggil aku sayanggg sekaranggg ✨"
-  )}`;
+  const waLink = `https://wa.me/${HANAN_WHATSAPP_NUMBER}?text=${encodeURIComponent(
+  "Haiiiii Hanan!!! 🥰 Aku udah terima kamu jadi pacar akuuu!!! Yeayyy sekarang kamuu udah bisa manggil aku sayangggg ❤️💍 "
+)}`;
 
   return (
     <div
